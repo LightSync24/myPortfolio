@@ -306,7 +306,7 @@ section {
   flex-direction: column;
   justify-content: start;
   box-shadow: 1px 2px 15px rgba(0, 0, 0, 0.1);
-  transition: all 0.3s ease-in-out;
+  transition: all 0.25s ease-in-out;
 }
 .toolbox ul{
   font-size: larger;

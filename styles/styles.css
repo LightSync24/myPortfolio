@@ -293,7 +293,9 @@ section {
 .toolbox-container{
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
   justify-content: space-evenly;
+  gap:10px;
 }
 .toolbox{
   border: 2px var(--color-grey-5) solid;
